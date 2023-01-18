@@ -1,0 +1,7 @@
+﻿  Scrabble.cpp
+d:\university\scrabble\scrabble\scrabble.cpp(323): warning C4018: '<': signed/unsigned mismatch
+d:\university\scrabble\scrabble\scrabble.cpp(500): warning C4018: '<': signed/unsigned mismatch
+d:\university\scrabble\scrabble\scrabble.cpp(504): warning C4018: '<': signed/unsigned mismatch
+d:\university\scrabble\scrabble\scrabble.cpp(513): warning C4018: '>=': signed/unsigned mismatch
+d:\university\scrabble\scrabble\scrabble.cpp(553): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Scrabble.vcxproj -> D:\University\Scrabble\Debug\Scrabble.exe

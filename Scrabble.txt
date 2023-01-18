@@ -1,0 +1,8 @@
+AI:
+Give the AI a hand
+With the letters in the hand search every possible word that matches those letters
+Push the word into a vector
+Get the words in the board into a vector as well
+Choose 1 random word from the word pool of the AI
+Compare the bot word with the board word
+Play the word
